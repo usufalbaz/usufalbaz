@@ -58,16 +58,21 @@
 
 ---
 
-### 📊 Real-Time GitHub Analytics & Metrics
+### 📊 Real-Time GitHub Analytics & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=usufalbaz&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Yousuf's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usufalbaz&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-69+_Commits-00F2FE?style=for-the-badge&logo=git&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Public_Repositories-19-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Ecosystem-Verified_Lead-00E676?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified" />
+</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=usufalbaz&theme=radical&hide_border=true" width="97%" alt="Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usufalbaz&theme=react-dark&hide_border=true&area=true" width="97%" alt="Yousuf's Activity Graph" />
 
 </div>
 
@@ -77,8 +82,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usuf-albaz)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/usufalbaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-usuf--albaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usuf-albaz)
+[![X (Twitter)](https://img.shields.io/badge/X-@usufalbaz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/usufalbaz)
 [![Discord](https://img.shields.io/badge/Discord-usufalbaz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Gmail](https://img.shields.io/badge/Gmail-u.albaz.official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u.albaz.official@gmail.com)
 
