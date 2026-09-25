@@ -18,11 +18,68 @@
 
 ---
 
-### 🧬 Executive Brief & Core Focus
+### 🧬 Executive Profile & Strategic Focus
 
-```yaml
-Identity: Yousuf El-Baz (Mr. G)
-Core Venture: jin.fi (Autonomous AI Ecosystem)
-Active Hackathon: Team Lead @ Jinx Security AI (IBM Bob 2.0)
-Specialization: Deep Learning, On-Device Quantized LLMs, SAST & Supply-Chain Security
-Stack Paradigm: "Extreme Performance, Local Sovereignty, Resilient Architectures."
+- 🚀 **Founder & Core Architect @ jin.fi:** Designing autonomous agentic intelligence, decentralized finance pipelines, and edge-native Android AI applications.
+- 🛡️ **Team Lead @ Jinx Security AI:** Leading a global 6-member engineering squad in the **IBM Bob 2.0 Hackathon**, architecting Sentinel Sandbox to prevent developer supply-chain attacks.
+- 🧠 **On-Device LLM Specialist:** Custom neural alignment, parameter-efficient fine-tuning (QLoRA), and extreme 3-bit/4-bit quantization (GGUF) for high-speed localized inference.
+- ⚡ **Engineering Philosophy:** "Maximum performance, local sovereignty, deterministic verification."
+
+---
+
+### 🛠️ Core Technology & Tooling Matrix
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,kotlin,ts,js,c,cpp,bash,linux,docker,git,github,postgres&perline=7" alt="Tech Stack Icons" />
+</a>
+
+</div>
+
+<br/>
+
+| Specialized Track | Applied Technologies & Tooling |
+| :--- | :--- |
+| **Generative AI & LLMs** | PyTorch, Hugging Face, GGUF / llama.cpp, QLoRA, Google GenAI SDK |
+| **Cybersecurity & SAST** | AST Slicing, Taint Analysis, OWASP Top 10, Supply Chain Defense, Cryptography |
+| **Mobile & Systems Engineering** | Native Android (Kotlin), TypeScript, Node.js, Next.js, Gradio |
+| **Infrastructure & Compute** | Linux Kernel, Docker Containers, Git CI/CD, Kaggle GPU Clusters |
+
+---
+
+### 🚀 Key Projects & Ecosystem Artifacts
+
+- 🌐 **jin.fi (Flagship Ecosystem):** Autonomous digital intelligence and decentralized workflow architecture, powering native Android AI assistants (jinapp & jinna_f).
+- 🛡️ **sentinel-sandbox (IBM Bob 2.0 Hackathon):** Disposable assessment sandbox-as-a-service, utilizing isolated containers and runtime agent tracing to defend against malicious recruitment repos.
+- 📈 **gold-analyzer-app:** High-precision precious metals quantitative intelligence application built natively for Android using Kotlin.
+- 🏥 **pharmacy.site:** Intelligent pharmaceutical operations, database management, and healthcare inventory platform.
+- 🧠 **U.AGI & AI-Project-p:** Advanced research implementations exploring general intelligence paradigms and automated machine learning pipelines.
+
+---
+
+### 📊 Real-Time GitHub Analytics & Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=usufalbaz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Yousuf's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usufalbaz&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usufalbaz&theme=radical&hide_border=true" width="97%" alt="Streak Stats" />
+
+</div>
+
+---
+
+### 📬 Direct Communications & Verified Network
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usuf-albaz)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/usufalbaz)
+[![Discord](https://img.shields.io/badge/Discord-usufalbaz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Gmail](https://img.shields.io/badge/Gmail-u.albaz.official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u.albaz.official@gmail.com)
+
+</div>
