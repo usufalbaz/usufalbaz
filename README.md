@@ -1,25 +1,47 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FF&height=200&section=header&text=Yousuf%20Albaz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Systems%20Engineer%20%7C%20Neural%20Architectures&descAlignY=55&descAlign=50" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yousuf+Albaz+👋;AI+%26+Systems+Engineer;Building+High-Performance+Intelligence;Engineering+Bare-Metal+Transformers" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/usuf-albaz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:u.albaz.official@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Discord-usufalbaz-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
+  <a href="https://www.linkedin.com/in/usuf-albaz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:u.albaz.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Discord-usufalbaz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </div>
 
 <br>
 
-### ⚡ Who Am I?
-> *"I don't just use AI models; I engineer the systems that make them run efficiently."*
+### 👨‍💻 Who Am I?
 
-I am an **AI & Systems Engineer** specializing in architecting intelligent systems with strict performance budgets. My focus lies at the intersection of **low-level tensor graph execution**, **memory access minimization** across accelerator caches, and **bare-metal transformer foundations**. 
+<table>
+  <tr>
+    <td width="60%">
+      <pre><code class="language-json">
+{
+  "name": "Yousuf Albaz",
+  "role": "AI & Systems Engineer",
+  "focus": [
+    "Low-level Tensor Execution",
+    "Memory Optimization",
+    "Bare-metal Transformers"
+  ],
+  "location": "Egypt 🇪🇬",
+  "philosophy": "I don't just use AI models; I engineer the systems that make them run efficiently."
+}
+      </code></pre>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Hacker GIF" />
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tech Stack & Substrates
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,docker,linux,react,ts,fastapi,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,docker,linux,react,ts,fastapi,git,github,bash,aws,gcp&theme=dark&perline=7" />
   </a>
 </div>
 
@@ -27,24 +49,19 @@ I am an **AI & Systems Engineer** specializing in architecting intelligent syste
 
 ### 🚀 Featured Engineering Projects
 
-| Project | Description | Tech Stack |
+| 🏆 Project | 💡 Description | ⚙️ Tech Stack |
 |---------|-------------|------------|
-| **[Sentinel Sandbox](https://github.com/usufalbaz/sentinel-sandbox)** | AI-powered disposable assessment sandbox & pre-execution code security auditor. Built for IBM Bob 2.0 Hackathon. | `FastAPI` `Docker` `Next.js` `AI Agents` |
-| **[DeepSpectra Forensics](https://github.com/usufalbaz/DeepSpectra-Forensics)** | Frequency-Domain Deepfake & Synthetic Image Detection Framework using 2D-FFT and Machine Learning. | `Python` `Computer Vision` `FFT` |
-| **[TeachMe AI](https://github.com/usufalbaz/teachme-ai)** | Real-time spoken English coach with ultra-low latency conversational audio streaming and phoneme-level diagnosis. | `WebSockets` `React 19` `Gemini Live` |
-| **[Jinny Core](https://github.com/usufalbaz/Jinny-Assistant)** | Enterprise-grade autonomous AI assistant for Android with persistent cognitive memory and direct IoT control. | `Python` `Kotlin` `MQTT` `SQLite` |
+| **[Sentinel Sandbox](https://github.com/usufalbaz/sentinel-sandbox)** | AI-powered disposable assessment sandbox & pre-execution code security auditor. | `FastAPI` `Docker` `Next.js` |
+| **[DeepSpectra Forensics](https://github.com/usufalbaz/DeepSpectra-Forensics)** | Frequency-Domain Deepfake & Synthetic Image Detection Framework using 2D-FFT. | `Python` `Computer Vision` |
+| **[TeachMe AI](https://github.com/usufalbaz/teachme-ai)** | Real-time spoken English coach with ultra-low latency conversational audio streaming. | `WebSockets` `React 19` |
+| **[Jinny Core](https://github.com/usufalbaz/Jinny-Assistant)** | Enterprise-grade autonomous AI assistant for Android with persistent cognitive memory. | `Python` `Kotlin` `MQTT` |
 
 <br>
 
-### 📊 Live Computational Metrics
+### 🗺️ My Journey to AI
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usufalbaz&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D2FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usufalbaz&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF" alt="Top Languages" width="48%" />
-</div>
+```text
+[================== MY PATH FROM CODE TO INTELLIGENCE ==================]
 
-<hr/>
-
-<div align="center">
-  <p><i>Building high-performance machine intelligence from the ground up.</i></p>
-</div>
+PHASE 1 [✅] Core Foundations
+             C++ • Python •
