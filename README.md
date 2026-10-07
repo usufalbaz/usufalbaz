@@ -73,9 +73,4 @@ Also: [DeepSpectra](https://github.com/usufalbaz/DeepSpectra-Forensics), a frequ
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,ts,kotlin,fastapi,nodejs,react,nextjs,docker,vercel,firebase,opencv&theme=dark&perline=11" alt="Python, TypeScript, Kotlin, FastAPI, Node.js, React, Next.js, Docker, Vercel, Firebase, OpenCV" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usufalbaz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00d2ff,50:203a43,100:0f2027" width="100%" alt="" />
